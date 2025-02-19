@@ -1,4 +1,4 @@
-# <p align=center>`Polyper: Boundary Sensitive Polyp Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28274)`</p>
+# <p align=center>`Polyper: Boundary Sensitive Polyp Segmentation - AAAI 2024`</p>
 
 
 
