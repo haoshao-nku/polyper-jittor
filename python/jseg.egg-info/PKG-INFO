@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: jseg
+Version: 0.1.0.0
+Summary: Semantic Segmentation Toolbox By Jittor
+Home-page: http://jittor.com
+Author: Jittor Group
+Author-email: jittor@qq.com
+License: Apache License 2.0
+Description: UNKNOWN
+Keywords: computer vision,semantic segmentation
+Platform: UNKNOWN
+Requires-Python: >=3.7
